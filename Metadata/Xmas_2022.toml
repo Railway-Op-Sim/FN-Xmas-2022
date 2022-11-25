@@ -1,0 +1,15 @@
+rly_file = "Xmas_2022.rly"
+ttb_files = [ "Xmas_2022.ttb",]
+ssn_files = [ "Xmas_2022.ssn",]
+img_files = [ "Xmas_2022.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-11-25"
+version = "1.0.0"
+country_code = "FN"
+factual = false
+description = ""
+year = 2022
+display_name = "Xmas 2022"
+name = "Xmas 2022"
+author = "Kristian Zarębski"
+contributors = []
