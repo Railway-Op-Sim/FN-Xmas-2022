@@ -1,26 +1,8 @@
-# Project Title
+# Xmas 2022
 
-*About the project goes here*
-
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+This map is a bit of fun to celebrate Christmas 2022, the signals are used to simulate Christmas lights for a festive feel.
 
 ## Simulation
 
-*This section describes the timetable*
-
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
-
-## Development
-
-*This section is optional though highly recommended*
-
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+The purpose of this map is not to score highly, but rather just enjoy the lights flashing on and off. The only operation required is to loop the services
+back around the map again. Note, you cannot form a loop route in RailOS, you must route the trains across the gap in two steps.
